@@ -2,6 +2,7 @@ the apache kafka which is real-time distributed event streaming platform which i
 so here is simple implementation with working demo.
 
 JUST CLONE IT AND OPEN IN VS CODE:-
+
 PRE:- 1. NEED DOCKER
       2. PULL ZOOKEEPPER IMAGE
       3. KEEP RUNNING IT IN ONE TERMINAL OR RUN IT IN BACKGROUND WITH -d IN DOCKER.
