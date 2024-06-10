@@ -4,7 +4,7 @@ so here is simple implementation with working demo.
 JUST CLONE IT AND OPEN IN VS CODE:-
 
 PRE:- 1. NEED DOCKER
-      2. PULL ZOOKEEPPER IMAGE
+      2. PULL ZOOKEEPPER IMAGE\n
       3. KEEP RUNNING IT IN ONE TERMINAL OR RUN IT IN BACKGROUND WITH -d IN DOCKER.
       4. IN VS CODE IN TERMINAL TYPE yarn init
       5.THEN ADD yarn add kafkajs
